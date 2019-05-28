@@ -1,0 +1,16 @@
+{
+  "packageDirectories" : [ {
+    "path" : "PraModule",
+    "default" : true,
+    "package" : "PraModule",
+    "versionName" : "PraModule",
+    "versionNumber" : "1.0.0.0"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "45.0",
+  "packageAliases" : {
+    "PraModule" : "0Ho2v000000TN3BCAW",
+    "PraModule@1.0.0.0" : "04t2v000001MoG3AAK"
+  }
+}
